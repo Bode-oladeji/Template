@@ -1,0 +1,50 @@
+body {
+    background-image: url("https://previews.123rf.com/images/mimagephotography/mimagephotography1704/mimagephotography170400595/75916544-close-up-portrait-of-beautiful-young-black-woman-smiling-outdoors.jpg"), url("paper.gif");
+    background-color: #cccccc;
+  }
+  
+ul {
+    float: right;
+    word-spacing: 50px;
+    margin-right: 80px;
+    margin-top: -270px;
+}
+
+li {
+    display: inline;
+    font-size: medium;
+    font-weight: bold;
+}
+
+.center {
+    word-spacing: 10px;
+    margin-top: 50px;
+ 
+    margin-left: 450px;
+    margin-top: 270px;
+
+}
+
+h1 {
+    font-family: sans-serif
+    'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    
+}
+
+p {
+    color: white
+    font-weight: bolder;
+    font-size: large;
+    word-spacing: 2px;
+}
+button {
+    padding: 10px 20px;
+}
+
+.fir {
+    background-color: greenyellow
+
+
+}
+
+
